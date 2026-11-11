@@ -1,8 +1,8 @@
-# Loophole-Robust Quantum Advantage
+# Exact Frontiers with own-marginal
 
-This repository contains code and data supporting our study of **benchmark-dependent, loophole-robust certification of quantum advantage**.
+This repository contains code and data supporting our study of **Exact score frontiers under own-marginal measurement dependence**.
 
-The project develops a task-level analogue of measurement dependence in Bell tests. It quantifies how much benchmark-correlated classical side information would be required to reproduce an observed quantum–classical score gap.
+The project develops a task-level analog of measurement dependence in Bell tests. It quantifies the amount of benchmark-correlated classical side information required to reproduce an observed quantum–classical score gap.
 
 ## Repository contents
 
@@ -10,6 +10,8 @@ The project develops a task-level analogue of measurement dependence in Bell tes
 - `Quantum_Nonlocal_Games.zip` — raw and readout-mitigated count data for the nonlocal-game experiments.
 - `ad_hoc_benchmark.ipynb` — Havlíček-style quantum-kernel benchmark and construction-side dependence audit.
 - `Ad_hoc_new_15_20.zip` — data and outputs for the ad hoc benchmark using 15 training and 20 test examples per class.
+- 'analysis_scripts'-codes related to theorems and linear programs. 
+- 'RAC_experiments'-codes related to 2-to-1 and 3-to-1 random access codes. 
 
 ## Requirements
 
