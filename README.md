@@ -10,8 +10,8 @@ The project develops a task-level analog of measurement dependence in Bell tests
 - `Quantum_Nonlocal_Games.zip` — raw and readout-mitigated count data for the nonlocal-game experiments.
 - `ad_hoc_benchmark.ipynb` — Havlíček-style quantum-kernel benchmark and construction-side dependence audit.
 - `Ad_hoc_new_15_20.zip` — data and outputs for the ad hoc benchmark using 15 training and 20 test examples per class.
-- 'analysis_scripts'-codes related to theorems and linear programs. 
-- 'RAC_experiments'-codes related to 2-to-1 and 3-to-1 random access codes. 
+- `analysis_scripts.zip`-codes related to theorems and linear programs. 
+- `RAC_experiment.zip`-codes related to 2-to-1 and 3-to-1 random access codes. 
 
 ## Requirements
 
